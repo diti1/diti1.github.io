@@ -18,8 +18,7 @@ body {
 	padding-left:18px;
 }
 #slogan {
-	font-size: 16px;
-	font-style: italic;
+	font-size: 18px;
 	color: #FF530D;
 	font-weight: 800;
 	padding-bottom: 22px;
@@ -56,14 +55,13 @@ hr {
 
 #statement {
 	color: #434345;
-	font-size: 18px;
-	font-weight: ;
-	text-decoration: ;
-	text-transform: ;
+	font-family: times;
+	font-size: 20px;
+	line-height: 1.5em;
 	text-align: center;
 	padding: 20px 150px 0px 150px;
-	margin: 0px;
-}
+	margin: 3em;
+}	
 
 .hashtag {
 	color: #000;
