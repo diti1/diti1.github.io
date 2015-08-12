@@ -1,0 +1,104 @@
+body {
+	background: white;
+	color: black;
+	font-size: 22px;
+	font-family: open sans;
+	font-style: ;
+	font-weight: ;
+	text-decoration: ;
+	text-transform: ;
+}
+#header {
+	text-align: center;
+}
+#logo {
+	height: 150px;
+	width: 340px;	
+	padding-top: 20px;
+	padding-left:18px;
+}
+#slogan {
+	font-size: 16px;
+	font-style: italic;
+	color: #FF530D;
+	font-weight: 800;
+	padding-bottom: 22px;
+	
+}
+
+#navbar {
+	text-align: center;
+    padding: 0;
+    margin: 0;
+    font-size: 20px;
+}
+
+#navbar li {
+	display: inline-block;
+	padding: 5px 20px;
+	margin: 0px 20px;
+	border: 0px solid gray;
+	border-radius: 5%;
+	font-size: 12px;
+	color: #000;
+}
+
+#top_section {
+	text-align: center;
+}
+
+hr { 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+	width: 230px;
+}
+
+#statement {
+	color: #434345;
+	font-size: 18px;
+	font-weight: ;
+	text-decoration: ;
+	text-transform: ;
+	text-align: center;
+	padding: 20px 150px 0px 150px;
+	margin: 0px;
+}
+
+.hashtag {
+	color: #000;
+}
+
+#footer {
+	list-style-type: none;
+	text-align: center;
+    padding: 0;
+    margin: 0;
+    font-size: 20px;
+}
+
+#footer li {
+	display: inline-block;
+	background: #35C711;
+    color: #fff;
+	padding: 40px;
+	margin: 50px 50px 50px 50px;
+	border-radius: 4%;
+}
+
+#contact {
+	position: relative;
+	margin: 20px;
+	padding: 5px;
+	font-size: 12px;
+	text-align: center;
+	font-style: bold;
+	background: #000;
+	color: #fff;
+	opacity: 1;
+}
+.email {
+	color:#FF530D;
+}
+
+
