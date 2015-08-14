@@ -1,8 +1,11 @@
+@import url(http://fonts.googleapis.com/css?family=Josefin+Slab);
+@import url(http://fonts.googleapis.com/css?family=Vollkorn);
+
 body {
 	background: white;
 	color: black;
 	font-size: 22px;
-	font-family: open sans;
+	font-family: Vollkorn;
 	font-style: ;
 	font-weight: ;
 	text-decoration: ;
@@ -13,19 +16,23 @@ body {
 }
 #logo {
 	height: 150px;
+	background: #fff;
 	width: 340px;	
 	padding-top: 20px;
 	padding-left:18px;
+	padding-bottom: none;
 }
 #slogan {
-	font-size: 18px;
+	font-family: Vollkorn;
+	font-size: 1.25em;
 	color: #FF530D;
-	font-weight: 800;
-	padding-bottom: 22px;
+	font-weight: 1em;
+	padding-bottom: 15px;
 	
 }
 
 #navbar {
+	font-family: open sans;
 	text-align: center;
     padding: 0;
     margin: 0;
@@ -55,7 +62,7 @@ hr {
 
 #statement {
 	color: #434345;
-	font-family: times;
+	font-family: roboto slab;
 	font-size: 20px;
 	line-height: 1.5em;
 	text-align: center;
